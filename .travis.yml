@@ -1,7 +1,7 @@
 language: ruby
 cache: bundler # caching to speed up dependency installation
 rvm:
-- 2.4.4 # update to newest Ruby version
+- 2.5.5 # update to newest Ruby version
 addons:
   apt:
     packages:
